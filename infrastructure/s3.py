@@ -1,1 +1,0 @@
-from django.utils.translation import f
